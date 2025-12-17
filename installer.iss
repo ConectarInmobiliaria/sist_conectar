@@ -18,7 +18,7 @@ Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
 PrivilegesRequired=admin
-SetupIconFile=imagenes\favicon.png
+SetupIconFile=imagenes\favicon.ico
 UninstallDisplayIcon={app}\{#MyAppExeName}
 
 [Languages]
