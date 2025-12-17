@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# PyInstaller
+build/
+dist/
+*.spec.backup
+
+# Bases de datos (comentar si quieres incluir la base inicial)
+# inmobiliaria.db
+
+# PDFs generados
+recibos/*
+!recibos/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Instalador
+installer_output/*
+!installer_output/.gitkeep
+
+# Logs y temporales
+*.log
+*.tmp
+.env
+.env.local
+
+# Backups
+*.backup
+*.backup2
+*.bak
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
